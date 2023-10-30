@@ -1,3 +1,3 @@
-theme:Cayman
+theme: Cayman
 
 index.md
